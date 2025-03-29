@@ -1,0 +1,21 @@
+# Git Ignore File
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Environment Variables
+.env
+
+# Build files
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Editor/OS files
+.vscode/
+.DS_Store
